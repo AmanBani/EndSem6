@@ -390,7 +390,7 @@
                     ) : (
                       <>
                         <Play className="h-5 w-5 mr-3" />
-                        Run Code
+                        Execute Code
                         <ChevronRight className="h-5 w-5 ml-2" />
                       </>
                     )}
